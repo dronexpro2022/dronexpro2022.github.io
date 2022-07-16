@@ -5,7 +5,7 @@ document.write('<h2 style="text-align: center;">Link:-1');
 document.write('<a class=\'myButton\'href="https://wow.link/directlinkcanvaprofree" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Get Caneva Pro Free</a></h2>');
 document.write('');
 document.write('<h2 style="text-align: center;">Link:-2');
-document.write('<a class=\'myButton\'href="https://wow.link/directlinkcanvaprofree" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Get Caneva Pro Free</a></h2>');
+document.write('<a class=\'myButton\'href="https://wow.link/directlinkcanvaprofree1" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Get Caneva Pro Free</a></h2>');
 document.write('');
 document.write('<p style="text-align: center;"><span style="background-color: #ffff00;">Sometimes links do not work properly, if you think it errors then try again later. thank you! </span></p>');
 document.write('');
